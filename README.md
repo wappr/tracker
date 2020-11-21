@@ -16,3 +16,18 @@ Links to documentation that are used by this project.
 
 * [Preact Getting Started](https://preactjs.com/guide/v10/getting-started)
 * [TailwindCSS](https://v1.tailwindcss.com/)
+
+## Packages
+
+### Go
+
+* [JWT Go](https://github.com/dgrijalva/jwt-go)
+* [Google idtoken](https://pkg.go.dev/google.golang.org/api/idtoken)
+* [Google option](https://pkg.go.dev/google.golang.org/api/option)
+* [gorillla mux](https://github.com/gorilla/mux)
+
+### JS
+
+* [Axios](https://github.com/axios/axios)
+* [Preact](https://preactjs.com)
+* [tailwindcss](https://tailwindcss.com/)
